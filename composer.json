@@ -3,12 +3,15 @@
     "description": "jsonrpc2 implementation for generic use. Test suite for Nette Framework included.",
     "keywords": ["json", "rpc", "nette"],
     "homepage": "http://github.com/sitmpcz/JSONRpc2",
-    "license": ["New BSD"],
+    "license": ["MIT"],
     "authors":[
         {
-            "name": "Pavel Ptáček",
-            "homepage": "http://animalgroup.cz"
+            "name": "Pavel Ptáček"
+        },
+        {
+            "name": "SITmP"
         }
+        
     ],
     "support": {
         "issues": "https://github.com/sitmpcz/JSONRpc2/issues"
